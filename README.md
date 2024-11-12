@@ -4,6 +4,7 @@
 # Ex.No: 6               HOLT WINTERS METHOD
 
 ### AIM:
+To create and implement Holt Winter's Method Model using python.
 
 ### ALGORITHM:
 1.Load and Filter Data: Read the dataset, convert the date column to datetime, and filter for the desired commodity.
